@@ -1,2 +1,2 @@
-# hospital-database-design
+# hospital-data-model
 Design hospital database system
